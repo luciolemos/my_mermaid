@@ -2,13 +2,13 @@
 Learning mermaid
 
 ```mermaid
-sequenceDiagram
-JOEL->>RUY: Hello John, how are you?
+Diagrama de sequência construído com mermaid
+Alice->>John: Hello John, how are you?
 loop HealthCheck
     John->>John: Fight against hypochondria
 end
 Note right of John: Rational thoughts!
-JOEL-->>LUCIO: Great!
-LUCIO->>RUY: How about you?
-RUY-->>JOEL: Jolly good!
+John-->>Alice: Great!
+John->>Bob: How about you?
+Bob-->>John: Jolly good!
 ```
