@@ -2,6 +2,7 @@
 Learning mermaid
 
 ```mermaid
+sequenceDiagram
 Diagrama de sequência construído com mermaid
 Alice->>John: Hello John, how are you?
 loop HealthCheck
