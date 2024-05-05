@@ -1,5 +1,7 @@
 # my_mermaid
 Learning mermaid
+
+
 sequenceDiagram
 Alice->>John: Hello John, how are you?
 loop HealthCheck
