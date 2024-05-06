@@ -1,6 +1,8 @@
 # my_mermaid
 Uma imagem vale mais que mil palavras. Agora você pode criar e editar rapidamente diagramas em markdown usando palavras com suporte Mermaid em seus arquivos Markdown.
 
+<p><a href="https://github.com/mermaid-js/mermaid#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mermaid</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> é uma ferramenta de diagramação e gráficos baseada em JavaScript que usa definições de texto inspiradas em Markdown e cria diagramas dinamicamente no navegador. Mantido por </font></font><a href="https://github.com/knsv"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Knut Sveidqvist</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , ele oferece suporte a vários tipos de diagramas comuns para projetos de software, incluindo fluxogramas, UML, gráficos Git, diagramas de jornada do usuário e até mesmo o temido gráfico de Gantt.</font></font></p>
+
 Mermaid é uma ferramenta de diagramação e gráficos baseada em JavaScript que usa definições de texto inspiradas em Markdown e cria diagramas dinamicamente no navegador. Mantido por Knut Sveidqvist , ele oferece suporte a vários tipos de diagramas comuns para projetos de software, incluindo fluxogramas, UML, gráficos Git, diagramas de jornada do usuário e até mesmo o temido gráfico de Gantt.
 
 ## Como funciona
