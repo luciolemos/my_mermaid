@@ -3,7 +3,7 @@ Uma imagem vale mais que mil palavras. Agora você pode criar e editar rapidamen
 
 Mermaid é uma ferramenta de diagramação e gráficos baseada em JavaScript que usa definições de texto inspiradas em Markdown e cria diagramas dinamicamente no navegador. Mantido por Knut Sveidqvist , ele oferece suporte a vários tipos de diagramas comuns para projetos de software, incluindo fluxogramas, UML, gráficos Git, diagramas de jornada do usuário e até mesmo o temido gráfico de Gantt.
 
-Como funciona
+##Como funciona
 Quando encontramos blocos de código marcados como mermaid, geramos um iframe que pega a sintaxe bruta do Mermaid e a passa para Mermaid.js, transformando esse código em um diagrama em seu navegador local.
 
 ## DIAGRAMA DE SEQUÊNCIA
