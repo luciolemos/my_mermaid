@@ -1,5 +1,5 @@
 # my_mermaid
-Learning mermaid
+Learning mermaid (Diagrama de Sequência simples)
 
 ```mermaid
 sequenceDiagram
