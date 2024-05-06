@@ -9,6 +9,7 @@ Uma imagem vale mais que mil palavras. Agora você pode criar e editar rapidamen
 ## Como funciona
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Quando encontramos blocos de código marcados como </font></font><code>mermaid</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">, geramos um iframe que pega a sintaxe bruta do Mermaid e a passa para Mermaid.js, transformando esse código em um diagrama em seu navegador local.</font></font></p>
 ### EXEMPLOS
+
 #### DIAGRAMA DE SEQUÊNCIA
 
 ```mermaid
