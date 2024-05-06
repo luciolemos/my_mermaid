@@ -11,6 +11,8 @@ John-->>Alice: Great!
 John->>Bob: How about you?
 Bob-->>John: Jolly good!
 ```
+   ASASASASAS
+
 ## DIAGRAMA DE CLASSES
 ```mermaid
 classDiagram
