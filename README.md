@@ -11,7 +11,7 @@ John-->>Alice: Great!
 John->>Bob: How about you?
 Bob-->>John: Jolly good!
 ```
-### SINTAXE MERMAID
+### SINTAXE MERMAID DO DIAGRAMA DE SEQUÊNCIA
     ```mermaid
        sequenceDiagram
        Alice->>John: Hello John, how are you?
