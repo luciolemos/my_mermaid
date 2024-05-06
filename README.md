@@ -10,6 +10,7 @@ Uma imagem vale mais que mil palavras. Agora você pode criar e editar rapidamen
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Quando encontramos blocos de código marcados como </font></font><code>mermaid</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">, geramos um iframe que pega a sintaxe bruta do Mermaid e a passa para Mermaid.js, transformando esse código em um diagrama em seu navegador local.</font></font></p>
 ### EXEMPLOS
 #### DIAGRAMA DE SEQUÊNCIA
+
 ```mermaid
 sequenceDiagram
 Alice->>John: Hello John, how are you?
@@ -35,6 +36,7 @@ Bob-->>John: Jolly good!
        ```
 
 #### DIAGRAMA DE CLASSES
+
 ```mermaid
 classDiagram
 Class01 <|-- AveryLongClass : Cool
@@ -74,6 +76,7 @@ class Class10 {
        ```
 
 #### DIAGRAMA DE ESTADO
+
 ```mermaid
 stateDiagram-v2
 [*] --> Still
@@ -84,6 +87,7 @@ Moving --> Crash
 Crash --> [*]
 ```
 #### FLUXOGRAMA
+
 ```mermaid
 flowchart LR
 
