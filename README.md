@@ -8,8 +8,8 @@ Uma imagem vale mais que mil palavras. Agora você pode criar e editar rapidamen
 
 ## Como funciona
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Quando encontramos blocos de código marcados como </font></font><code>mermaid</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">, geramos um iframe que pega a sintaxe bruta do Mermaid e a passa para Mermaid.js, transformando esse código em um diagrama em seu navegador local.</font></font></p>
-
-## DIAGRAMA DE SEQUÊNCIA
+### EXEMPLOS
+#### DIAGRAMA DE SEQUÊNCIA
 ```mermaid
 sequenceDiagram
 Alice->>John: Hello John, how are you?
@@ -21,7 +21,7 @@ John-->>Alice: Great!
 John->>Bob: How about you?
 Bob-->>John: Jolly good!
 ```
-### SINTAXE MERMAID DO DIAGRAMA DE SEQUÊNCIA
+#### SINTAXE MERMAID DO DIAGRAMA DE SEQUÊNCIA
        ```mermaid
        sequenceDiagram
        Alice->>John: Hello John, how are you?
@@ -34,7 +34,7 @@ Bob-->>John: Jolly good!
        Bob-->>John: Jolly good!
        ```
 
-## DIAGRAMA DE CLASSES
+#### DIAGRAMA DE CLASSES
 ```mermaid
 classDiagram
 Class01 <|-- AveryLongClass : Cool
@@ -53,7 +53,7 @@ class Class10 {
   size()
 }
 ```
-### SINTAXE MERMAID DO DIAGRAMA DE CLASSES
+#### SINTAXE MERMAID DO DIAGRAMA DE CLASSES
        ```mermaid
        classDiagram
        Class01 <|-- AveryLongClass : Cool
@@ -73,7 +73,7 @@ class Class10 {
        }
        ```
 
-## DIAGRAMA DE ESTADO
+#### DIAGRAMA DE ESTADO
 ```mermaid
 stateDiagram-v2
 [*] --> Still
@@ -83,7 +83,7 @@ Moving --> Still
 Moving --> Crash
 Crash --> [*]
 ```
-## FLUXOGRAMA
+#### FLUXOGRAMA
 ```mermaid
 flowchart LR
 
