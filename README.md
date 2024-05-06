@@ -1,4 +1,5 @@
 # my_mermaid
+Uma imagem vale mais que mil palavras. Agora você pode criar e editar rapidamente diagramas em markdown usando palavras com suporte Mermaid em seus arquivos Markdown.
 ## DIAGRAMA DE SEQUÊNCIA
 ```mermaid
 sequenceDiagram
