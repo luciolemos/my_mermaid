@@ -1,5 +1,5 @@
 # my_mermaid
-Learning mermaid (Diagrama de Sequência simples)
+## DIAGRAMA DE SEQUÊNCIA
 
 ```mermaid
 sequenceDiagram
@@ -12,7 +12,7 @@ John-->>Alice: Great!
 John->>Bob: How about you?
 Bob-->>John: Jolly good!
 ```
-# FLUXOGRAMA
+## FLUXOGRAMA
 ```mermaid
 flowchart LR
 
